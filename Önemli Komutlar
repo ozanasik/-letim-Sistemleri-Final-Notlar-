@@ -1,0 +1,10 @@
+1) ls komutu = listeleme
+2) pwd komutu = yazdırma
+3) cd komutu = dizin değiştirmek , cd kök dizin , cd.. bir seviye yukarı , cd- bir önceki dizin.
+4) rm komutu = dosya dizin kaldırma
+5) mw komutu = taşıma
+6) chmod komutu = izinleri değiştirme
+7) exit komutu = çıkış
+8) kill komutu = dizin kaldırma
+9) passwd komutu = şifre değiştirme 
+10) find komutu = dosya dizin bulma 
